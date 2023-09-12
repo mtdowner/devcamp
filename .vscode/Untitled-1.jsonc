@@ -44,8 +44,8 @@
 		"editorBracketHighlight.foreground1": "#9003ff",
 		"editorBracketHighlight.foreground2": "#00d2ff",
 		"editorBracketHighlight.foreground3": "#7360ff",
-		"editorBracketHighlight.foreground4": "#aa00ff",
-		"editorBracketHighlight.foreground5": "#9300ff",
+		"editorBracketHighlight.foreground4": "#972ADB",
+		"editorBracketHighlight.foreground5": "#8ab9b2",
 		"editorBracketHighlight.foreground6": "#7d44ff",
 		"editorBracketMatch.background": "#7360ff",
 		"editorBracketMatch.border": "#8a2be2",
@@ -82,7 +82,7 @@
 		"editorWhitespace.foreground": "#8a2be2",
 		"editorWidget.background": "#00d2ff",
 		"editorWidget.border": "#8a2be2",
-		"errorForeground": "#aa00ff",
+		"errorForeground": "#972ADB",
 		"extensionBadge.remoteBackground": "#8a2be2",
 		"extensionBadge.remoteForeground": "#333333",
 		"extensionButton.prominentBackground": "#8a2be2",
@@ -94,7 +94,7 @@
 		"focusBorder": "#8a2be2",
 		"foreground": "#8a2be2",
 		"gitDecoration.addedResourceForeground": "#00d2ff",
-		"gitDecoration.conflictingResourceForeground": "#aa00ff",
+		"gitDecoration.conflictingResourceForeground": "#972ADB",
 		"gitDecoration.deletedResourceForeground": "#ffffff",
 		"gitDecoration.ignoredResourceForeground": "#7d44ff",
 		"gitDecoration.modifiedResourceForeground": "#00d2ff",
@@ -176,10 +176,10 @@
 		"statusBar.debuggingBackground": "#ffffff",
 		"statusBar.foreground": "#333333",
 		"statusBarItem.activeBackground": "#00000000",
-		"statusBarItem.errorBackground": "#aa00ff",
+		"statusBarItem.errorBackground": "#972ADB",
 		"statusBarItem.errorForeground": "#333333",
-		"statusBarItem.hoverBackground": "#8a2be230",
-		"statusBarItem.remoteBackground": "#ffffff",
+		"statusBarItem.hoverBackground": "#8a2be2",
+		"statusBarItem.remoteBackground": "#aaaaff",
 		"statusBarItem.remoteForeground": "#333333",
 		"statusBarItem.warningBackground": "#00d2ff",
 		"statusBarItem.warningForeground": "#333333",
@@ -195,14 +195,14 @@
 		"terminal.ansiBrightBlue": "#d7e6f8",
 		"terminal.ansiBrightCyan": "#b2efe4",
 		"terminal.ansiBrightGreen": "#bef4be",
-		"terminal.ansiBrightMagenta": "#aa00ff",
-		"terminal.ansiBrightRed": "#8a2be2",
+		"terminal.ansiBrightMagenta": "#ffd9e5",
+		"terminal.ansiBrightRed": "#ffd6be",
 		"terminal.ansiBrightWhite": "#8a2be2",
-		"terminal.ansiBrightYellow": "#8a2be2",
-		"terminal.ansiCyan": "#9300ff",
+		"terminal.ansiBrightYellow": "#ffdc9a",
+		"terminal.ansiCyan": "#8ab9b2",
 		"terminal.ansiGreen": "#7360ff",
 		"terminal.ansiMagenta": "#00d2ff",
-		"terminal.ansiRed": "#aa00ff",
+		"terminal.ansiRed": "#972ADB",
 		"terminal.ansiWhite": "#7d44ff",
 		"terminal.ansiYellow": "#00d2ff",
 		"terminal.background": "#333333",
@@ -248,7 +248,7 @@
 		//"commandCenter.inactiveForeground": "#cccccc99",
 		//"commentsView.resolvedIcon": "#cccccc80",
 		//"commentsView.unresolvedIcon": "#8a2be2",
-		//"debugConsole.errorForeground": "#aa00ff",
+		//"debugConsole.errorForeground": "#972ADB",
 		//"debugConsole.infoForeground": "#3794ff",
 		//"debugConsole.sourceForeground": "#8a2be2",
 		//"debugConsole.warningForeground": "#cca700",
@@ -452,7 +452,7 @@
 		//"notebookScrollbarSlider.activeBackground": "#8a2be2",
 		//"notebookScrollbarSlider.background": "#8a2be2",
 		//"notebookScrollbarSlider.hoverBackground": "#7d44ff",
-		//"notebookStatusErrorIcon.foreground": "#aa00ff",
+		//"notebookStatusErrorIcon.foreground": "#972ADB",
 		//"notebookStatusRunningIcon.foreground": "#8a2be2",
 		//"notebookStatusSuccessIcon.foreground": "#89d185",
 		//"notifications.border": "#7360ff",
@@ -758,7 +758,7 @@
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#9300ff"
+				"foreground": "#8AB9B2"
 			}
 		},
 		{
@@ -796,7 +796,7 @@
 				"constant.language.boolean"
 			],
 			"settings": {
-				"foreground": "#aa00ff"
+				"foreground": "#972ADB"
 			}
 		},
 		{
@@ -889,7 +889,7 @@
 				"meta.attribute.id.html string"
 			],
 			"settings": {
-				"foreground": "#aa00ff"
+				"foreground": "#972ADB"
 			}
 		},
 		{
@@ -908,7 +908,7 @@
 				"entity.other.attribute-name.pseudo-class.html"
 			],
 			"settings": {
-				"foreground": "#9300ff"
+				"foreground": "#8AB9B2"
 			}
 		},
 		{
